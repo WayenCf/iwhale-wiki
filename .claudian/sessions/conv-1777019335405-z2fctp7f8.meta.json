@@ -1,0 +1,26 @@
+{
+  "id": "conv-1777019335405-z2fctp7f8",
+  "providerId": "claude",
+  "title": "hi",
+  "titleGenerationStatus": "pending",
+  "createdAt": 1777019335412,
+  "updatedAt": 1777020634157,
+  "lastResponseAt": 1777019786133,
+  "sessionId": "404a745c-c2cc-4316-b0f7-c99ac6b06d52",
+  "providerState": {
+    "providerSessionId": "404a745c-c2cc-4316-b0f7-c99ac6b06d52",
+    "previousProviderSessionIds": [
+      "756ac37c-7ea3-4875-935a-2c1a12a5909b",
+      "d479c7cd-8534-4043-9f6d-f5e848c42d5b"
+    ]
+  },
+  "usage": {
+    "model": "claude-4.6-opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

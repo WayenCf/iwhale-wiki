@@ -1,0 +1,13 @@
+{
+  "id": "conv-1776908403098-x9wmsglu8",
+  "providerId": "claude",
+  "title": "hi",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776908403099,
+  "updatedAt": 1776911148992,
+  "lastResponseAt": 1776911148979,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "022b4571-a0c7-45e9-a42e-20fba4842c30"
+  }
+}

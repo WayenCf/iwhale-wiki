@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776773345017-yy3eg8h57",
+  "providerId": "claude",
+  "title": "D:\\preweb\\error\\error",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776773345018,
+  "updatedAt": 1776773814938,
+  "lastResponseAt": 1776773797504,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "ecaaa313-d33a-4f4d-8486-9763676a70f3"
+  },
+  "usage": {
+    "model": "claude-4.6-opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

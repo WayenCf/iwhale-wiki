@@ -1,0 +1,33 @@
+{
+  "id": "conv-1776934521055-7z8t2dmj0",
+  "providerId": "claude",
+  "title": "/obsidian-markdown 对知识库进行健康检查",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776934521056,
+  "updatedAt": 1776992760865,
+  "lastResponseAt": 1776935632645,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "a6a2dd79-0e57-47b7-8122-0b8ec4746c70",
+    "subagentData": {
+      "call_5dce67e8c25546d7a7321f88": {
+        "id": "call_5dce67e8c25546d7a7321f88",
+        "description": "Analyze wiki link structure",
+        "prompt": "Analyze the wiki at D:\\PlatformTechnology\\iWhale-wiki\\wiki for health check:\n\n1. **Broken Links**: Find all wikilinks [[...]] that point to non-existent files\n2. **Orphan Pages**: Find all .md files (excluding index.md and log.md) that are NOT linked by any other file\n3. **Raw Links**: Check if there are any links to raw/ directory (which should be cleaned up)\n\nUse thorough exploration level. Report:\n- Total number of broken links found\n- List of orphan pages if any\n- Any raw/ links if found\n- Overall health assessment",
+        "status": "completed",
+        "toolCalls": [],
+        "isExpanded": false,
+        "result": "API Error: Request rejected (429) · 您的账户已达到速率限制，请您控制请求频率"
+      }
+    }
+  },
+  "usage": {
+    "model": "claude-4.6-opus",
+    "inputTokens": 3221,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55936,
+    "contextWindow": 200000,
+    "contextTokens": 59157,
+    "percentage": 30
+  }
+}

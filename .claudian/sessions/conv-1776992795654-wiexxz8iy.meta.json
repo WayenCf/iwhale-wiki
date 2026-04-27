@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776992795654-wiexxz8iy",
+  "providerId": "claude",
+  "title": "Using knowledge-graph skill to generate a title...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776992795654,
+  "updatedAt": 1776993735546,
+  "lastResponseAt": 1776993623118,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "fe9fe856-dd9e-4ad5-8b7f-d962bb3a9466"
+  },
+  "usage": {
+    "model": "claude-4.6-opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

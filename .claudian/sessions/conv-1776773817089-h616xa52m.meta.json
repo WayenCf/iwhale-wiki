@@ -1,0 +1,22 @@
+{
+  "id": "conv-1776773817089-h616xa52m",
+  "providerId": "claude",
+  "title": "4月22日 09:03",
+  "createdAt": 1776773817089,
+  "updatedAt": 1776829420772,
+  "lastResponseAt": 1776829375474,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "fc109dee-ce31-4de3-8c50-505bc697842e"
+  },
+  "usage": {
+    "model": "claude-4.6-opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

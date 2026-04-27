@@ -1,0 +1,22 @@
+{
+  "id": "conv-1776567069932-aifrq00yc",
+  "providerId": "claude",
+  "title": "请你根据 karpathy 的这套方法，帮我把仓库里的文件夹的结构给建立起来",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776567069943,
+  "updatedAt": 1776759880187,
+  "lastResponseAt": 1776757911498,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "e9ad4933-b51e-411b-a325-3f08e519e09a"
+  },
+  "usage": {
+    "model": "claude-4.6-opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

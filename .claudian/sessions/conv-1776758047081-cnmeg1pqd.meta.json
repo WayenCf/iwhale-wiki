@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776758047081-cnmeg1pqd",
+  "providerId": "claude",
+  "title": "聊天过程中怎么中断会话",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776758047086,
+  "updatedAt": 1776773342248,
+  "lastResponseAt": 1776773315908,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "763d9c15-1da4-43c2-9f99-a8897afa65ad"
+  },
+  "usage": {
+    "model": "claude-4.6-opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

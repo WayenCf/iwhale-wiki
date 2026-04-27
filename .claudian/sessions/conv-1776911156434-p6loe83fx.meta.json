@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776911156434-p6loe83fx",
+  "providerId": "claude",
+  "title": "对知识库进行健康检查",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776911156434,
+  "updatedAt": 1776934490476,
+  "lastResponseAt": 1776934325883,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "05bf93bf-19e2-4d53-ad3c-afe19b79380c"
+  },
+  "usage": {
+    "model": "claude-4.6-opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

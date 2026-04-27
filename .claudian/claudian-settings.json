@@ -1,0 +1,71 @@
+{
+  "userName": "",
+  "permissionMode": "yolo",
+  "model": "claude-4.6-opus",
+  "thinkingBudget": "medium",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "locale": "zh-CN",
+  "providerConfigs": {
+    "claude": {
+      "safeMode": "acceptEdits",
+      "cliPath": "",
+      "cliPathsByHost": {
+        "Fweny": "C:\\nvm4w\\nodejs\\node_modules\\@anthropic-ai\\claude-code\\cli.js"
+      },
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "enableOpus1M": false,
+      "enableSonnet1M": false,
+      "customModels": "",
+      "lastModel": "haiku",
+      "environmentVariables": "PATH=C:\\nvm4w\\nodejs;%PATH%\nANTHROPIC_AUTH_TOKEN=cr_64a81a60bd9418d6999e085ea26d7848a3e078cab2db51473fd8ffc656cc41d0\nANTHROPIC_BASE_URL=http://10.88.16.10:3000/api\nDEBUG_CLAUDE_AGENT_SDK=1\nANTHROPIC_MODEL=claude-4.6-opus",
+      "environmentHash": "ANTHROPIC_BASE_URL=http://10.88.16.10:3000/api|ANTHROPIC_MODEL=claude-4.6-opus"
+    },
+    "codex": {
+      "enabled": false,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {
+        "Fweny": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
+    }
+  },
+  "settingsProvider": "claude",
+  "savedProviderModel": {
+    "claude": "claude-4.6-opus"
+  },
+  "savedProviderEffort": {
+    "claude": "high"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderThinkingBudget": {
+    "claude": "medium"
+  },
+  "lastCustomModel": "claude-4.6-opus",
+  "maxTabs": 3,
+  "tabBarPosition": "input",
+  "enableAutoScroll": true,
+  "openInMainTab": false,
+  "hiddenProviderCommands": {}
+}
