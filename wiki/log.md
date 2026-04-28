@@ -546,3 +546,12 @@
 - 所有页面 frontmatter 包含必需字段
 - 所有链接使用完整路径 `[[wiki/dms90/...]]`
 - 无 raw/ 链接残留
+
+## [2026-04-28] ingest | dms90 | Document.id 主键冲突重启恢复
+
+- **来源**：现场报错分析
+- **新建页面**：
+  - 来源页 ×1：Document.id 主键冲突重启恢复
+- **更新页面**：
+  - 概念页 ×3（更新）：序列问题（添加 MongoDB Document.id 主键冲突案例）、异常体系（补充 DuplicatePKException 说明）、文档ID生命周期（添加主键冲突注意事项）
+- **更新**：`wiki/index.md` Stats 同步（来源 57→58，页面 99→100）

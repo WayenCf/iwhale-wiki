@@ -1,7 +1,7 @@
 ---
-updated: 2026-04-23
-total_pages: 99
-total_sources: 57
+updated: 2026-04-28
+total_pages: 100
+total_sources: 58
 ---
 
 # 知识库索引
@@ -15,12 +15,12 @@ total_sources: 57
 | 指标 | 数量 |
 |------|------|
 | 项目数 | 1 |
-| 已摄取来源 | 57 |
-| Wiki 页面 | 99 |
+| 已摄取来源 | 58 |
+| Wiki 页面 | 100 |
 | 实体页 | 13 |
 | 概念页 | 29 |
 | 对比页 | 0 |
-| 最后更新 | 2026-04-23 |
+| 最后更新 | 2026-04-28 |
 
 ---
 
@@ -89,6 +89,7 @@ total_sources: 57
 | [[wiki/dms90/来源/2026-04-20 代码分析-dms-service-api\|代码分析：dms-service-api]] | Service 层接口契约：24 个 Service 接口、面向用例设计 | 2026-04-20 |
 | [[wiki/dms90/来源/2026-04-21 DMS关键表结构\|DMS 关键表结构]] | Oracle 5 张核心关系表：USER/TENANT/RESOURCE/RELEASE/RELEASE_RESOURCE | 2026-04-21 |
 | [[wiki/dms90/来源/2026-04-22 业务侧调用DMS生成PDF返回400\|业务侧调用 DMS 生成 PDF 返回 400]] | HTTP 协议请求 HTTPS 端口（443）导致 400 Bad Request | 2026-04-22 |
+| [[wiki/dms90/来源/2026-04-28 Document.id主键冲突重启恢复\|Document.id 主键冲突重启恢复]] | idGenerator 缓存与 MongoDB 数据不同步，重启恢复 | 2026-04-28 |
 
 ### 实体
 

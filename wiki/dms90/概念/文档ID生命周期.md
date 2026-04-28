@@ -2,7 +2,7 @@
 title: 文档 ID 生命周期
 type: concept
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-28
 tags: [architecture, id, lifecycle]
 sources: []
 ---
@@ -51,6 +51,7 @@ sources: []
 - 响应头 `Document-Id` 返回的是 GridFS fileId，响应 body 返回的是复合 ID — 下载时应使用 **body 中的复合 ID**
 - v2 批量接口的 shardingKey 仅支持大写 K
 - shardKey 默认值 = 年月字符串（如 `20263`），必然非空
+- **主键冲突风险**：`idGenerator.get()` 内部缓存序列值，当 MongoDB 数据被外部操作后可能生成重复 ID，导致 `DuplicatePKException`（error code 11000），重启应用刷新缓存即可恢复 → 详见 [[wiki/dms90/来源/2026-04-28 Document.id主键冲突重启恢复|Document.id 主键冲突重启恢复]]
 
 ## 关联页面
 
